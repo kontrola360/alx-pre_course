@@ -1,1 +1,1 @@
-My first readme updated
+I will make it to the main software course 
